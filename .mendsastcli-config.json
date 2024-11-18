@@ -9,7 +9,7 @@
     },
     "maxFileSize": 1024,
     "javaEngineGeneration": 1,
-    "jsEngineGeneration": 1,
+    "jsEngineGeneration": 2,
     "csharpEngineGeneration": 1,
     "pythonEngineGeneration": 1
   }
